@@ -19,14 +19,6 @@ Manual testing plays a critical role in ensuring the application works as expect
 
 ## 📁 Folder Structure
 
-/docs
-└── Test_Plan.md # Overall testing strategy and scope
-/test-cases
-└── [ModuleName]_TestCases.xlsx # Functional test cases
-/templates
-└── Bug_Report.md # Template for reporting issues
-/reports
-└── Test_Execution_Report.xlsx # Test run summaries and results
 
 yaml
 Copy
